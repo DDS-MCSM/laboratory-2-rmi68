@@ -2,7 +2,7 @@
 #                                                                              #
 #                          Lab 2 - CPE Standard                                #
 #                                                                              #
-#              Aitor Vivanco - Data Driven Securty                             #
+#             Ramiro Ramos - Data Driven Securty                             #
 #                                                                              #
 #******************************************************************************#
 
